@@ -11,3 +11,8 @@ for (auto i = 0; i < 10; i++) {
 }
 
 ```
+
+
+- [X] attempt to learn Git
+- [X] attempt to learn GitHub
+- [ ] start new career
